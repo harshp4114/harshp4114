@@ -1,7 +1,7 @@
 <h1 align="left">## नमस्ते (Namaste), I'm Harsh Patadia</h1>
 <h3 align="left">Exceptionally Exceptional: Handling Errors with Humor</h3>
 <h2>👾 About me :</h2>
-<p>5th sem Computer Engineering student, always keen to learn and discover new things!</p>
+<p>6th sem Computer Engineering student, always keen to learn and discover new things!</p>
                   
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **harshpatadia4114@gmail.com**
