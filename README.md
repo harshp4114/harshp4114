@@ -3,7 +3,7 @@
 <h2>👾 About me :</h2>
 <p>7th sem Computer Engineering student, always keen to learn and discover new things!</p>
                   
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python & Flask**
 - 📫 How to reach me **harshpatadia4114@gmail.com**
 
 <h2>✨ A Glimpse of Me</h2>
